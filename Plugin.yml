@@ -1,0 +1,5 @@
+name: particle-kit
+version: 1.1.0
+main: particle-kit\Main
+api: [3.0.0,4.0.0]
+author: rezex
