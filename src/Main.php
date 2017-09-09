@@ -1,5 +1,7 @@
 <?php
+
 namespace LavaDripParticle;
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\level\particle\LavaDripParticle;
 use pocketmine\command\CommandSender;
